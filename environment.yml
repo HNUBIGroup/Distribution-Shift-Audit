@@ -1,0 +1,30 @@
+name: sparse-rna-reliability
+channels:
+  - pytorch
+  - pyg
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9,<3.12
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - pyyaml
+  - tqdm
+  - pillow
+  - networkx
+  - rdkit
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pyg
+  - pip
+  - pip:
+      - transformers
+      # Optional for some CDA baselines, depending on CUDA/PyTorch version:
+      # - dgl
+

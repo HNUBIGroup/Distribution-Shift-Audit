@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or source data, please cite the associated manuscript."
+title: "Sparse RNA association prediction reliability audit"
+authors:
+  - family-names: "TODO"
+    given-names: "TODO"
+year: 2026
+doi: "TODO"
+journal: "TODO"
+repository-code: "TODO: GitHub repository URL"
+license: "TODO"
+

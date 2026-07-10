@@ -1,0 +1,155 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+ENV/
+conda-meta/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System and IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and scheduler output
+*.log
+*.out
+*.err
+nohup.out
+slurm-*.out
+slurm_*.out
+slurm_*.err
+sbatch_*.err
+sbatch_*.out
+slurm/
+
+# Model artifacts and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.pickle
+checkpoints/
+checkpoint*/
+model_final_epoch.*
+wandb/
+runs/
+tensorboard/
+events.out.tfevents*
+
+# Archives and bulky intermediates
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+tmp/
+temp/
+cache/
+scratch/
+intermediate/
+
+# Project result trees not intended for git
+formal_runs/
+release_audit/
+audit/
+audit_reports/
+archive/
+outputs/
+outputs_*/
+outputs-final*/
+outputs_probe/
+outputs_smoke/
+outputs_perturb/
+outputs_final_check/
+$GUARD_ROOT/
+DeepChem/
+candidate_manifests/
+status/
+
+# Smoke/pilot/failed/partial/stale/recovered historical assets
+*smoke*
+*pilot*
+*failed*
+*partial*
+*stale*
+*recovered*
+*.bak*
+*.backup*
+*.original
+
+# Raw data defaults. Keep documentation and tiny examples.
+data/*
+!data/README.md
+!data/example/
+!data/example/**
+
+# Keep curated release-facing assets.
+!docs/
+!docs/**
+!configs/
+!configs/**
+!scripts/
+scripts/*
+!scripts/check_environment.py
+!scripts/run_smoke_test.sh
+!scripts/collect_seed_metrics.py
+!scripts/make_summary_tables.py
+!scripts/make_source_data.py
+!scripts/verify_official_assets.py
+!scripts/recompute_fig4_similarity_stratified_final.py
+!scripts/paper1_data_refresh_20260710.py
+!examples/
+!examples/**
+!tests/
+!tests/**
+!results/
+!results/README.md
+!results/source_data/
+!results/source_data/**
+
+# Nested checkpoints and model weights
+**/checkpoints/**
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Generated probe/smoke/final-check outputs
+outputs_probe/
+outputs_final_check/
+release_audit/
+
+# Raw or local data symlink
+/data
+
+# Local scratch and accidental shell fragments
+README_STAGE0.txt
+ablation_effect_sizes_helper.*
+BISGTAR_COLD_FAIL_*
+COLD_START_MASKING_AUDIT*
+FINAL_RESULT_*
+COMPLETE_PASS
+VALIDATION_PASS
+
+# Internal HPC submission/debug scripts with local paths
+tools/hpc/

@@ -1,0 +1,14 @@
+[
+  {
+    "drug_idx": 0,
+    "mirna_idx": 0,
+    "drug_name": "example_drug_1",
+    "mirna_name": "example_mirna_1"
+  },
+  {
+    "drug_idx": 1,
+    "mirna_idx": 1,
+    "drug_name": "example_drug_2",
+    "mirna_name": "example_mirna_2"
+  }
+]

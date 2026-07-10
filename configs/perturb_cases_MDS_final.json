@@ -1,0 +1,32 @@
+[
+  {
+    "drug_idx": 0,
+    "mirna_idx": 81,
+    "drug_name": "Docetaxel",
+    "mirna_name": "hsa-miR-125a-5p"
+  },
+  {
+    "drug_idx": 12,
+    "mirna_idx": 82,
+    "drug_name": "Gefitinib",
+    "mirna_name": "hsa-miR-125b-5p"
+  },
+  {
+    "drug_idx": 22,
+    "mirna_idx": 295,
+    "drug_name": "Erlotinib",
+    "mirna_name": "hsa-miR-21-5p"
+  },
+  {
+    "drug_idx": 11,
+    "mirna_idx": 19,
+    "drug_name": "5-Fluorouracil",
+    "mirna_name": "hsa-miR-101-3p"
+  },
+  {
+    "drug_idx": 1,
+    "mirna_idx": 18,
+    "drug_name": "Doxorubicin",
+    "mirna_name": "hsa-miR-100-5p"
+  }
+]
