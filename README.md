@@ -38,7 +38,7 @@ The repository is organized for transparent reuse of frozen/fixed-final/PASS res
 
 The current research code is script-oriented. Core historical entry points remain at the repository top level to avoid changing validated experiment behavior.
 
-Repository URL: <https://github.com/HNUBIGroup/Distribution-shift-audit>
+Repository URL: <https://github.com/HNUBIGroup/Distribution-Shift-Audit>
 
 ## Installation
 
