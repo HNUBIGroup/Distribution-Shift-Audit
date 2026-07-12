@@ -1,0 +1,5 @@
+setting	n_seeds	applied_count_pass_seeds	all_matrix_validation_pass_seeds	manifest_rows_each	applied_masks_each	expected_applied_masks_each	status	upstream_source
+circrna_cold	25	25	25	7	3	3	PASS	formal_runs/cda_msmcda_native_maskedcold_full100_fixedfinal_20260701/07_tables/FORMAL100_MASKING_RUN_AUDIT.tsv
+disease_cold	25	25	25	7	2	2	PASS	formal_runs/cda_msmcda_native_maskedcold_full100_fixedfinal_20260701/07_tables/FORMAL100_MASKING_RUN_AUDIT.tsv
+random	25	25	25	7	0	0	PASS	formal_runs/cda_msmcda_native_maskedcold_full100_fixedfinal_20260701/07_tables/FORMAL100_MASKING_RUN_AUDIT.tsv
+strict_cold	25	25	25	7	5	5	PASS	formal_runs/cda_msmcda_native_maskedcold_full100_fixedfinal_20260701/07_tables/FORMAL100_MASKING_RUN_AUDIT.tsv

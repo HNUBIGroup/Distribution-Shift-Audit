@@ -51,7 +51,4 @@ docs/CHECKSUMS_SHA256.txt
 
 ## External Archival Recommendation
 
-Large raw data, complete predictions, and frozen formal outputs should be archived outside git, for example in a GitHub Release, Zenodo, Figshare, OSF, or institutional storage. Record the final archive DOI or URL here before public release.
-
-TODO: add final external data/archive URL.
-
+Large raw data, complete predictions, and frozen formal outputs should be archived outside git, for example in a GitHub Release, Zenodo, Figshare, OSF, or institutional storage. External archive information will be finalized by the repository owners.

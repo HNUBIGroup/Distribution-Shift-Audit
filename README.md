@@ -17,7 +17,6 @@ The repository is organized for transparent reuse of frozen/fixed-final/PASS res
 ```text
 .
 ├── README.md
-├── LICENSE_TODO.md
 ├── CITATION.cff
 ├── environment.yml
 ├── requirements.txt
@@ -38,6 +37,8 @@ The repository is organized for transparent reuse of frozen/fixed-final/PASS res
 ```
 
 The current research code is script-oriented. Core historical entry points remain at the repository top level to avoid changing validated experiment behavior.
+
+Repository URL: <https://github.com/HNUBIGroup/Distribution-shift-audit>
 
 ## Installation
 
@@ -155,12 +156,12 @@ Old recovered/locked high-score Bi-SGTAR outputs are excluded and must not be us
 
 ## Citation
 
-Use `CITATION.cff` for citation metadata. The manuscript DOI, final title, journal, and author list are TODO placeholders until confirmed.
+Use `CITATION.cff` for citation metadata. Manuscript bibliographic details that are not yet public will be finalized by the repository owners.
 
 ## License
 
-No final license has been selected. See `LICENSE_TODO.md`. Review third-party baseline code and data provenance before public release.
+License information will be finalized by the repository owners. Review third-party baseline code and data provenance before public release.
 
 ## Contact
 
-TODO: add maintainer name, affiliation, and contact email or issue tracker URL before public release.
+Use the GitHub repository issue tracker for public release questions.

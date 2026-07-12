@@ -8,11 +8,10 @@ version = "0.1.0"
 description = "Research code and source data packaging for sparse RNA association prediction reliability audits."
 readme = "README.md"
 requires-python = ">=3.9"
-license = { text = "TODO: choose a license before public release" }
+license = { text = "License information will be finalized by the repository owners." }
 authors = [
-  { name = "TODO: author names" }
+  { name = "HNUBIGroup" }
 ]
 
 [tool.setuptools]
 py-modules = []
-

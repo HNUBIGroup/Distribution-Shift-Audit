@@ -114,6 +114,7 @@ scripts/*
 !scripts/collect_seed_metrics.py
 !scripts/make_summary_tables.py
 !scripts/make_source_data.py
+!scripts/make_paper1_final_data_exports.py
 !scripts/verify_official_assets.py
 !scripts/recompute_fig4_similarity_stratified_final.py
 !scripts/paper1_data_refresh_20260710.py
@@ -153,3 +154,7 @@ VALIDATION_PASS
 
 # Internal HPC submission/debug scripts with local paths
 tools/hpc/
+
+# Internal packaging notes retained locally only
+GITHUB_PACKAGING_REPORT.md
+docs/PACKAGING_PRIVACY_AUDIT.md
