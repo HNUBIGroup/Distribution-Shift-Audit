@@ -1,0 +1,35 @@
+dataset_id	dataset_family	benchmark_suite	domain	modality	candidate_scope	official_source_locator	access_date	evidence_type	verification_status
+tableshift_voting	TableShift	TableShift	civic	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_assistments	TableShift	TableShift	education	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_childhood_lead	TableShift	TableShift	public health	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_college_scorecard	TableShift	TableShift	education	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_diabetes	TableShift	TableShift	health	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_food_stamps	TableShift	TableShift	public policy	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_heloc	TableShift	TableShift	finance	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_hospital_readmission	TableShift	TableShift	health	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_hypertension	TableShift	TableShift	health	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_icu_los	TableShift	TableShift	critical care	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_icu_mortality	TableShift	TableShift	critical care	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_income	TableShift	TableShift	socioeconomic	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_public_health_insurance	TableShift	TableShift	public policy	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_sepsis	TableShift	TableShift	critical care	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tableshift_unemployment	TableShift	TableShift	labor	tabular	binary classification	https://github.com/mlfoundations/shift	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+wilds_civilcomments	WILDS	WILDS	text moderation	text	binary classification	https://wilds.stanford.edu/	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+wilds_camelyon17	WILDS	WILDS	histopathology	image	binary classification	https://wilds.stanford.edu/	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+wildtime_yearbook	Wild-Time	Wild-Time	portrait image	image	temporal binary classification	https://github.com/huaxiuyao/Wild-Time	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+wildtime_mimic_mortality	Wild-Time	Wild-Time	clinical records	tabular	binary classification	https://github.com/huaxiuyao/Wild-Time	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+wildtime_mimic_readmission	Wild-Time	Wild-Time	clinical records	tabular	binary classification	https://github.com/huaxiuyao/Wild-Time	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+mds_sentiment	Multi-Domain Sentiment	MDS	product reviews	text	domain-shift binary classification	https://www.cs.jhu.edu/~mdredze/datasets/sentiment/	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+ogbl_collab	OGB	OGB	collaboration network	graph/link	binary relation prediction	https://ogb.stanford.edu/docs/linkprop/	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+ogbl_citation2	OGB	OGB	citation network	graph/link	binary relation prediction	https://ogb.stanford.edu/docs/linkprop/	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tgbl_wiki_v2	TGB	TGB	interaction network	graph/link	temporal binary relation prediction	https://tgb.complexdatalab.com/	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tgbl_review_v2	TGB	TGB	product reviews	graph/link	temporal binary relation prediction	https://tgb.complexdatalab.com/	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tgbl_coin	TGB	TGB	transaction network	graph/link	temporal binary relation prediction	https://tgb.complexdatalab.com/	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tgbl_comment	TGB	TGB	online interaction	graph/link	temporal binary relation prediction	https://tgb.complexdatalab.com/	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tgbl_flight	TGB	TGB	transport network	graph/link	temporal binary relation prediction	https://tgb.complexdatalab.com/	2026-07-29	official-source-locator	PENDING_OFFICIAL_VERIFICATION
+tabfsbench	TabFSBench	TabFSBench	UNRESOLVED	UNRESOLVED	stress/diagnostic	UNRESOLVED	2026-07-29	UNRESOLVED	PENDING_OFFICIAL_VERIFICATION
+cns_bench	CNS-Bench	CNS-Bench	UNRESOLVED	UNRESOLVED	stress/diagnostic	UNRESOLVED	2026-07-29	UNRESOLVED	PENDING_OFFICIAL_VERIFICATION
+oodrobustbench	OODRobustBench	OODRobustBench	UNRESOLVED	UNRESOLVED	stress/diagnostic	UNRESOLVED	2026-07-29	UNRESOLVED	PENDING_OFFICIAL_VERIFICATION
+bio_mdr	Biological relation	Existing Article2	miRNA-drug	graph/link	binary relation application block	results/public_only_registry.tsv	2026-07-29	local-frozen-registry	PENDING_OFFICIAL_VERIFICATION
+bio_mds	Biological relation	Existing Article2	miRNA-disease	graph/link	binary relation application block	results/public_only_registry.tsv	2026-07-29	local-frozen-registry	PENDING_OFFICIAL_VERIFICATION
+bio_circrna_disease	Biological relation	Existing Article2	circRNA-disease	graph/link	binary relation application block	results/public_only_registry.tsv	2026-07-29	local-frozen-registry	PENDING_OFFICIAL_VERIFICATION
